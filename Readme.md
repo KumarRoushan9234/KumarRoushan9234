@@ -6,7 +6,7 @@ Exploring **Django**, **TypeScript**, and **Next.js**, while diving deeper into 
 
 ---
 
-## 🚀 My Ddeployed Projects:
+## 🚀 My Deployed Projects:
 📌 **CSE Sensei** is a platform that helps students learn **core CSE subjects** efficiently.  
 🎯 It provides structured learning, quizzes, and interactive features to enhance the learning experience.  
 
