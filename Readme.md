@@ -26,18 +26,16 @@ Exploring **Django**, **TypeScript**, and **Next.js**, while diving deeper into 
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=KumarRoushan9234&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KumarRoushan9234&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies  
-
-![](https://github-profile-trophy.vercel.app/?username=KumarRoushan9234&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=KumarRoushan9234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=KumarRoushan9234&icon=0&color=3)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=KumarRoushan9234&icon=0&color=3)](https://visitcount.itsvg.in)
