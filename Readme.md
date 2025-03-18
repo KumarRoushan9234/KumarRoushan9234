@@ -11,7 +11,6 @@ Exploring **Django**, **TypeScript**, and **Next.js**, while diving deeper into 
 🎯 It provides structured learning, quizzes, and interactive features to enhance the learning experience.  
 
 🔗 **Check it out here:** 👉 [CSE Sensei](https://cse-sensei.vercel.app/)  
-
 ---
 
 ## 🌐 Connect With Me  
