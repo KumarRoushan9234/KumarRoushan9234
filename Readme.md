@@ -1,5 +1,5 @@
 # 💫 About Me  
-I am currently working on **MERN stack** projects and sharpening my **DSA skills**.  
+I am currently working on **MERN stack** projects ,sharpening and revising my **DSA skills** and Learni.  
 Exploring **Django**, **TypeScript**, and **Next.js**, while diving deeper into **Advanced Deep Learning** and Learning **Data Engineering**.  
 
 💡 Passionate about AI, web development, and building scalable solutions.  
