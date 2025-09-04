@@ -6,11 +6,19 @@ Passionate about AI, web development, and building scalable solutions.
 
 ---
 
-## 🚀 My Deployed Projects:
+##  My Deployed Projects:
+
+# 🚀 CSE Sensei  
 📌 **CSE Sensei** is a platform that helps students learn **core CSE subjects** efficiently.  
 🎯 It provides structured learning, quizzes, and interactive features to enhance the learning experience.  
 
 🔗 **Check it out here:** 👉 [CSE Sensei](https://cse-sensei.vercel.app/)  
+
+# 🚀 NeoFlow Task Manager  
+📌 **NeoFlow** is an AI-powered **task manager** that blends productivity with a sleek modern UI.  
+🎯 Organize tasks, get smart AI suggestions, and track your progress — all in one place. 
+
+🔗 **Check it out here:** 👉 [CSE Sensei](https://neo-flow.vercel.app/)  
 ---
 
 ## 🌐 Connect With Me  
