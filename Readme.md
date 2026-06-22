@@ -2,231 +2,130 @@
 
 # Kumar Roushan
 
-### Co-Founder @ KeiroLabs • AI Infrastructure Engineer • Full-Stack Engineer
+### Co-Founder @ KeiroLabs • AI Infrastructure Engineer
 
-<p>
-Building Search Infrastructure, Browser Infrastructure, and Developer Tooling for AI Applications.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&center=true&vCenter=true&width=900&lines=Building+Search+Infrastructure+for+AI+Agents;Engineering+Browser+Infrastructure+and+Agent+Runtimes;Designing+Developer+Tools+and+Platform+Systems;Building+Reliable+Production+Infrastructure;Creating+Products+Used+by+Real+Customers" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&center=true&vCenter=true&width=800&lines=Building+Search+Infrastructure+for+AI+Agents;Engineering+Browser+Infrastructure;Designing+Developer+Tools+and+Platform+Systems;Building+Reliable+Production+Infrastructure" />
 
 <br>
 
-<a href="mailto:roushan9234620012@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kumar-roushan-9870b425b">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/singh_Roushan89">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://keirolabs.cloud">
-<img src="https://img.shields.io/badge/KeiroLabs-black?style=for-the-badge"/>
-</a>
+[LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b) • [X](https://x.com/singh_Roushan89) • [KeiroLabs](https://keirolabs.cloud)
 
 </div>
 
 ---
 
-# 🚀 About
+## 🚀 About
 
-I am a Software Engineer and Co-Founder of **KeiroLabs**, where I build infrastructure that enables AI systems to access information, interact with the web, and execute complex workflows reliably.
+Software Engineer and Co-Founder of **KeiroLabs**.
 
-My work focuses on designing production-grade systems across search infrastructure, browser infrastructure, retrieval systems, developer tooling, cloud platforms, and distributed backend services.
+I build search infrastructure, browser infrastructure, and developer tooling for AI applications.
 
-I enjoy solving difficult engineering problems and building systems that operate under real production workloads.
+My interests include:
+
+* Search Systems
+* Browser Infrastructure
+* AI Agents
+* Distributed Systems
+* Backend Engineering
+* Cloud Infrastructure
 
 ---
 
-# 🏗️ What I'm Building
+## 🏗️ Current Focus
 
 ### 🔍 Search Infrastructure
 
-Building APIs and retrieval systems that allow AI agents and applications to discover, retrieve, process, and reason over information from across the web.
-
-Current areas of focus:
-
-* Semantic Retrieval
-* Search APIs
-* Content Extraction
-* Retrieval Pipelines
-* RAG Systems
-* Information Processing
-* Search Infrastructure for AI Agents
-
----
+Building APIs and retrieval systems that help AI agents access and process information from across the web.
 
 ### 🌐 Browser Infrastructure
 
-Building deployable browser environments designed specifically for AI applications and autonomous agents.
-
-Current areas:
-
-* Persistent Browser Sessions
-* Browser Automation
-* Session Management
-* Browser Execution APIs
-* Agent Workflows
-* Headless Infrastructure
-* Browser-Based Data Extraction
-
----
+Developing persistent browser sessions, browser automation workflows, and deployable browser environments.
 
 ### ⚙️ Developer Tooling
 
-Creating products that improve developer experience and simplify AI integration.
-
-Areas of focus:
-
-* API Platforms
-* SDK Development
-* Authentication Systems
-* Infrastructure Automation
-* Platform Observability
-* Developer Experience
+Building SDKs, APIs, and platform tooling that simplify integration for developers.
 
 ---
 
-# 📦 Featured Projects
+## 📦 Featured Projects
 
-## KeiroLabs
+### KeiroLabs
 
-### Search & Browser Infrastructure for AI Agents
-
-KeiroLabs is a deep-tech platform focused on search infrastructure, browser infrastructure, and developer tooling.
-
-#### Highlights
+Search & browser infrastructure platform for AI agents.
 
 * Real-time Search APIs
 * Browser Session Infrastructure
-* Semantic Retrieval Systems
-* Content Extraction Pipelines
+* Semantic Retrieval
 * Developer SDKs
-* Authentication Systems
-* Distributed Caching
-* Production API Platform
-
-#### Current Scale
-
 * 330+ Users
-* 30–50 Paying Customers
-* 5,000–6,000 Requests Processed Daily
+* 5,000–6,000 Requests Daily
 
-**Website:** https://keirolabs.cloud
+🔗 https://keirolabs.cloud
 
 ---
 
-## Subport
+### Subport
 
-### Customer Support, CRM & Subscription Platform
+Customer Support, CRM, and Subscription Platform.
 
-Subport is a multi-tenant SaaS platform enabling organizations to manage customer support operations, subscription workflows, and customer relationships from a unified system.
-
-#### Features
-
-* Multi-Tenant Architecture
-* CRM Functionality
+* Multi-Tenant SaaS
+* CRM Workflows
 * Subscription Management
-* Customer Support Workflows
-* Role-Based Access Control
-* Analytics & Reporting
-* Secure Authentication
+* RBAC & Authentication
 
-**Website:** https://subport.space
+🔗 https://subport.space
 
 ---
 
-## NeoFlow
+### NeoFlow
 
-### AI Productivity Platform
-
-NeoFlow combines planning, task management, and AI-powered assistance to help users organize and optimize their work.
-
-#### Features
+AI-powered productivity platform.
 
 * AI Task Prioritization
-* Calendar Planning
+* Planning & Scheduling
 * Productivity Analytics
-* Secure Authentication
-* Modern Next.js Architecture
-* High-Performance Frontend
+* Next.js Architecture
 
-**Website:** https://neo-flow.vercel.app
+🔗 https://neo-flow.vercel.app
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-### Languages
+**Languages**
 
-`Python` • `TypeScript` • `JavaScript` • `SQL` • `C++`
+`Python` `TypeScript` `JavaScript` `SQL` `C++`
 
-### Frontend
+**Backend**
 
-`React` • `Next.js` • `Tailwind CSS`
+`Node.js` `Express.js` `FastAPI` `Flask`
 
-### Backend
+**Frontend**
 
-`Node.js` • `Express.js` • `FastAPI` • `Flask`
+`React` `Next.js` `Tailwind CSS`
 
-### Databases
+**Databases**
 
-`PostgreSQL` • `MongoDB` • `Redis` • `InfluxDB` • `MySQL`
+`PostgreSQL` `MongoDB` `Redis` `MySQL`
 
-### AI Infrastructure
+**AI Infrastructure**
 
-`RAG` • `Vector Search` • `Embeddings` • `Semantic Retrieval` • `LangChain` • `Agent Workflows`
+`RAG` `Vector Search` `Embeddings` `LangChain`
 
-### DevOps & Cloud
+**DevOps**
 
-`Docker` • `Linux` • `Nginx` • `GitHub Actions` • `AWS` • `Cloudflare`
-
-### Systems
-
-`REST APIs` • `OAuth 2.0` • `Caching` • `Rate Limiting` • `Distributed Systems` • `System Design`
+`Docker` `Linux` `AWS` `Cloudflare` `Nginx`
 
 ---
 
-# 🎯 Current Goals
-
-* Expanding KeiroLabs search infrastructure
-* Building browser execution environments
-* Open-sourcing developer tooling
-* Deepening distributed systems expertise
-* Designing reliable AI infrastructure
-* Building products used by developers worldwide
-
----
-
-# 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🤝 Connect
-
-**LinkedIn**
-https://linkedin.com/in/kumar-roushan-9870b425b
-
-**X (Twitter)**
-https://x.com/singh_Roushan89
-
-**KeiroLabs**
-https://keirolabs.cloud
-
----
-
-> Build things that scale.
-> Understand why they scale.
-> Keep systems simple, observable, and reliable.
+> Building infrastructure for the next generation of AI applications.
