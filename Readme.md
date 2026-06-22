@@ -1,178 +1,71 @@
-<h1 align="center">Kumar Roushan</h1>
+<div align="center">
+  <h1>Kumar Roushan</h1>
+  <p><b>Co-Founder & Lead Engineer @ KeiroLabs | Software Engineer @ Metabees</b></p>
+  
+  <a href="https://keirolabs.cloud/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+high-throughput+AI+infrastructure.;Architecting+autonomous+browser+environments.;Scaling+distributed+systems+and+SaaS+platforms." alt="Typing SVG" />
+  </a>
+  <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Co-Founder+%40+KeiroLabs;AI+Infrastructure+Engineer;Building+Search+and+Browser+Infrastructure;Developer+Tools+and+Platform+Engineering;Full-Stack+Engineer" alt="Typing SVG" />
-</p>
-
----
-
-## About Me
-
-I am a Software Engineer and Co-Founder of **KeiroLabs**, where I build search infrastructure, browser infrastructure, and developer tooling for AI agents and applications.
-
-My work focuses on designing production-grade systems for information retrieval, browser automation, API platforms, developer experiences, and AI-powered workflows.
-
-I enjoy working across the stack—from frontend applications and backend services to cloud infrastructure, distributed systems, and platform engineering.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-roushan-9870b425b)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/singh_Roushan89)
+  [![KeiroLabs](https://img.shields.io/badge/KeiroLabs-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keirolabs.cloud)
+</div>
 
 ---
 
-## Current Focus
+## ⚡ About Me
+I am a Deeptech Founder and Software Engineer specializing in **search infrastructure, autonomous browser environments, and high-throughput backend systems**.
 
-- Building search infrastructure for AI agents and applications
-- Developing browser infrastructure and persistent browser sessions
-- Designing developer tooling, APIs, and SDKs
-- Improving distributed systems reliability and performance
-- Exploring large-scale retrieval and agent execution systems
-- Building production-grade AI infrastructure
+Currently, I am the Co-Founder of **KeiroLabs**, where I am building the infrastructure that allows AI agents to seamlessly access, analyze, and reason over real-time web data. I thrive at the intersection of complex distributed systems, vector search, and platform engineering.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Architectures
 
-### KeiroLabs
-**Search & Browser Infrastructure for AI Agents**
+### 🌐 [KeiroLabs](https://keirolabs.cloud) | *Deeptech API Platform*
+> **Search & Browser Infrastructure for AI Agents**
 
-KeiroLabs is a deep-tech platform focused on search infrastructure, browser infrastructure, and developer tooling for AI applications.
+*   **Scale:** Processing **5,000–6,000 requests daily** across developer and AI-agent workflows.
+*   **Infrastructure:** Engineered real-time semantic retrieval pipelines, persistent browser session management, and distributed Redis caching for low-latency API delivery.
+*   **Focus:** Deployable browser environments, content extraction infrastructure, and comprehensive developer SDKs.
 
-**Highlights**
+### 🔄 [Subport](https://subport.space) | *SaaS CRM & Subscription Platform*
+> **Multi-Tenant Customer Support & Billing System**
 
-- Real-time web search APIs
-- Semantic retrieval pipelines
-- Content extraction infrastructure
-- Browser session management
-- Browser automation workflows
-- Developer SDKs and integrations
-- API platform serving production workloads
-- Processing 5,000–6,000 requests daily
+*   **Architecture:** Designed a highly scalable backend automating complex tiered billing and B2B subscription lifecycles.
+*   **Security:** Implemented strict Role-Based Access Control (RBAC) and robust state management to enforce zero-trust tenant data isolation.
 
-**Website:** https://keirolabs.cloud
+### 🧠 [NeoFlow](https://neo-flow.vercel.app) | *AI Productivity Suite*
+> **Autonomous Planning & Analytics**
 
----
-
-### Subport
-**Customer Support, CRM & Subscription Management Platform**
-
-Subport is a multi-tenant SaaS platform enabling organizations to manage customer support operations, subscription workflows, and customer relationships from a unified system.
-
-**Highlights**
-
-- Multi-tenant architecture
-- Subscription lifecycle management
-- Customer support workflows
-- CRM functionality
-- Role-based access control
-- Secure authentication systems
-- Analytics and reporting
-
-**Website:** https://subport.space
+*   **Performance:** Next.js application sustaining a **95+ Lighthouse score** via Incremental Static Regeneration (ISR) and edge caching.
+*   **Integration:** Natively secured with TOTP 2FA and JWT refresh token rotation, featuring Gemini AI task prioritization and scheduling.
 
 ---
 
-### NeoFlow
-**AI-Powered Productivity Platform**
+## 🛠️ Engineering Stack
 
-NeoFlow combines AI-powered planning, task management, and productivity analytics to help users organize and optimize their work.
+### Core & Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Highlights**
-
-- AI task prioritization
-- Calendar planning
-- Productivity analytics
-- Authentication and security
-- Modern Next.js architecture
-- High-performance frontend optimization
-
-**Website:** https://neo-flow.vercel.app
-
----
-
-## What I'm Building
-
-### Search Infrastructure
-
-Building APIs and retrieval systems that enable AI agents to access, analyze, and reason over web-scale information.
-
-### Browser Infrastructure
-
-Developing deployable browser environments, browser automation workflows, and persistent browser session systems for AI applications.
-
-### Developer Tooling
-
-Building SDKs, APIs, integrations, and platform tooling that simplify adoption for developers and teams.
-
-### Platform Engineering
-
-Designing scalable backend services, deployment pipelines, observability systems, and infrastructure supporting production workloads.
-
----
-
-## Core Technologies
-
-### Languages
-
-`Python` • `TypeScript` • `JavaScript` • `SQL` • `C++`
-
-### Frontend
-
-`React` • `Next.js` • `Tailwind CSS`
-
-### Backend
-
-`Node.js` • `Express.js` • `FastAPI` • `Flask`
-
-### Databases
-
-`PostgreSQL` • `MongoDB` • `Redis` • `InfluxDB` • `MySQL`
-
-### AI Infrastructure
-
-`RAG` • `Vector Search` • `Embeddings` • `Semantic Retrieval` • `LangChain` • `Agent Workflows`
+### Backend & AI Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=database&logoColor=white)
 
 ### DevOps & Cloud
-
-`Docker` • `Linux` • `Nginx` • `GitHub Actions` • `AWS` • `Cloudflare`
-
-### Architecture
-
-`REST APIs` • `OAuth 2.0` • `Distributed Systems` • `System Design` • `Caching` • `Rate Limiting`
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020) ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639)
 
 ---
 
-## Open Source
+## 📈 Telemetry & Metrics
 
-Currently working on open-sourcing components related to:
-
-- Search infrastructure
-- Browser infrastructure
-- Developer SDKs
-- AI agent integrations
-- Platform tooling
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Connect
-
-**LinkedIn**  
-https://linkedin.com/in/kumar-roushan-9870b425b
-
-**X (Twitter)**  
-https://x.com/singh_Roushan89
-
-**KeiroLabs**  
-https://keirolabs.cloud
-
----
-
-> Build things that scale. Understand why they scale.
+<div align="center">
+  <i>"Build things that scale. Understand why they scale."</i>
+</div>
