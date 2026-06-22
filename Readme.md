@@ -2,11 +2,8 @@
 
 # Kumar Roushan
 
-### Co-Founder @ KeiroLabs • AI Infrastructure Engineer
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&center=true&vCenter=true&width=800&lines=Building+Search+Infrastructure+for+AI+Agents;Engineering+Browser+Infrastructure;Designing+Developer+Tools+and+Platform+Systems;Building+Reliable+Production+Infrastructure" />
 
-<br>
 
 [LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b) • [X](https://x.com/singh_Roushan89) • [KeiroLabs](https://keirolabs.cloud)
 
