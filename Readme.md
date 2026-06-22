@@ -2,10 +2,11 @@
   <!-- Unique Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Kumar%20Roushan&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Infrastructure%20Builder&descSize=20&descColor=cccccc" width="100%" />
 
-  <a href="https://github.com/KumarRoushan9234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=I+turn+coffee+into+low-latency+APIs.;Building+scalable+systems+in+the+dark.;I+break+servers+so+you+don't+have+to." alt="Typing SVG" />
-  </a>
-  <br><br>
+  <br><br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems.;Engineering+AI+infrastructure.;Developing+reliable+web+platforms." alt="Typing SVG" />
+  
+  <br><br><br>
 
   [![Email](https://img.shields.io/badge/Email-roushan9234620012@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roushan9234620012@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-roushan-9870b425b)
@@ -14,25 +15,23 @@
 
 ---
 
-## 🕵️‍♂️ The Architect's Terminal
-Welcome to my workspace. I specialize in building **high-throughput backend systems, robust AI infrastructure, and scalable web ecosystems**. I prefer my environments like I prefer my hardware: full black, zero distractions, and purely performance-oriented. 
+## 💻 About Me
+Hello. I specialize in building **high-throughput backend systems, robust AI infrastructure, and scalable web applications**. My approach to software engineering is straightforward: focus on performance, maintain clean architecture, and eliminate unnecessary distractions. 
 
-Whether I am orchestrating cloud deployments, experimenting with local LLM runtimes, or designing semantic retrieval pipelines, my goal is always to build systems that scale gracefully under pressure.
-
-> *"My code compiles on the first try. (Terms and conditions apply)."* 🚀
+Whether I am deploying cloud infrastructure, working with large language models, or designing search pipelines, my primary goal is to build reliable systems that can scale under heavy workloads.
 
 ---
 
 ## 🏗️ Selected Architectures
 
 ### 🌌 [KeiroLabs](https://keirolabs.cloud) 
-*A scalable API platform for real-time semantic retrieval and autonomous AI web workflows, built to handle heavy daily request loads with distributed caching.*
+*An API platform for real-time semantic retrieval and AI web workflows, built to handle heavy daily request loads utilizing distributed caching.*
 
 ### 🏢 [Subport](https://subport.space)
-*A multi-tenant SaaS architecture automating complex B2B billing and subscription lifecycles, featuring strict zero-trust data isolation.*
+*A multi-tenant SaaS architecture that automates B2B billing and subscription lifecycles, featuring strict data isolation and access control.*
 
 ### ⚡ [NeoFlow](https://neo-flow.vercel.app)
-*An AI-driven productivity suite leveraging Incremental Static Regeneration (ISR) for lightning-fast performance and seamless task management.*
+*An AI-driven productivity suite leveraging Incremental Static Regeneration (ISR) for fast performance and seamless task management.*
 
 ---
 
