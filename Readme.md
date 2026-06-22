@@ -1,14 +1,10 @@
 <div align="center">
-  <br><br>
+  <h1>Kumar Roushan</h1>
+  <p><b>Software Engineer | AI Infrastructure Builder</b></p>
 
-  <!-- Unique Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Kumar%20Roushan&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Infrastructure%20Builder&descSize=20&descColor=cccccc" width="100%" />
-
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems.;Engineering+AI+infrastructure.;Developing+reliable+web+platforms." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems.;Engineering+AI+infrastructure.;Developing+reliable+web+platforms." alt="Typing SVG" />
   
-  <br>
+  <br><br>
 
   [![Email](https://img.shields.io/badge/Email-roushan9234620012@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roushan9234620012@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-roushan-9870b425b)
@@ -18,9 +14,16 @@
 ---
 
 ## 💻 About Me
-Hello. I specialize in building **high-throughput backend systems, robust AI infrastructure, and scalable web applications**. My approach to software engineering is straightforward: focus on performance, maintain clean architecture, and eliminate unnecessary distractions. 
+I specialize in building **high-throughput backend systems, robust AI infrastructure, and scalable web applications**. My approach to software engineering is straightforward: focus on performance, maintain clean architecture, and eliminate unnecessary distractions. 
 
 Whether I am deploying cloud infrastructure, working with large language models, or designing search pipelines, my primary goal is to build reliable systems that can scale under heavy workloads.
+
+---
+
+## 🛠️ Core Technologies
+*   **Languages:** Python, TypeScript, JavaScript, C++, SQL
+*   **Backend & Cloud:** Node.js, FastAPI, Redis, Docker, AWS, Cloudflare, Nginx
+*   **AI & Data:** PyTorch, LangChain, PostgreSQL, ChromaDB, Vector Search
 
 ---
 
@@ -34,49 +37,3 @@ Whether I am deploying cloud infrastructure, working with large language models,
 
 ### ⚡ [NeoFlow](https://neo-flow.vercel.app)
 *An AI-driven productivity suite leveraging Incremental Static Regeneration (ISR) for fast performance and seamless task management.*
-
----
-
-## 🧰 The Arsenal 
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>🧠 AI & Data</b></td>
-    <td align="center" width="25%"><b>⚙️ Backend</b></td>
-    <td align="center" width="25%"><b>☁️ Cloud & DevOps</b></td>
-    <td align="center" width="25%"><b>🗣️ Languages</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=database&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" /><br>
-      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=FF9900" /><br>
-      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" /><br>
-      <img src="https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📡 Radar & Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=KumarRoushan9234&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
