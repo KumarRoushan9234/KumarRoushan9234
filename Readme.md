@@ -1,12 +1,14 @@
 <div align="center">
+  <br><br>
+
   <!-- Unique Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Kumar%20Roushan&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Infrastructure%20Builder&descSize=20&descColor=cccccc" width="100%" />
 
-  <br><br><br>
+  <br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems.;Engineering+AI+infrastructure.;Developing+reliable+web+platforms." alt="Typing SVG" />
   
-  <br><br><br>
+  <br>
 
   [![Email](https://img.shields.io/badge/Email-roushan9234620012@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roushan9234620012@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-roushan-9870b425b)
