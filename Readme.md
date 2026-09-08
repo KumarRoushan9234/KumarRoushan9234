@@ -72,7 +72,7 @@ Search and browser infrastructure platform designed for AI agents and AI-powered
 
 ---
 
-### Subport
+### Fluras
 
 Customer support, CRM, and subscription management platform.
 
@@ -84,7 +84,7 @@ Customer support, CRM, and subscription management platform.
 * RBAC & Authentication
 * Customer Operations Platform
 
-🔗 https://subport.space
+🔗 https://fluras.com
 
 ---
 
