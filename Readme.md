@@ -2,140 +2,347 @@
 
 # Kumar Roushan
 
-### Co-Founder @ KeiroLabs • AI Infrastructure Engineer
+### Co-Founder & AI Product Engineer @ KeiroLabs
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&center=true&vCenter=true&width=850&lines=Building+Search+Infrastructure+for+AI+Agents;Engineering+Browser+Infrastructure+and+Agent+Workflows;Designing+Developer+Tools+and+Platform+Systems;Building+Reliable+Production+Infrastructure" />
+Building AI infrastructure, agent systems, search & retrieval pipelines, and developer platforms.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1400&center=true&vCenter=true&width=850&lines=Building+Infrastructure+for+AI+Agents;Engineering+Search+%26+Retrieval+Systems;Building+Browser+Infrastructure+for+AI;Designing+Developer+Platforms+%26+APIs;Shipping+Production+AI+Systems" />
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b) • [X](https://x.com/KumarR35261) • [KeiroLabs](https://keirolabs.cloud)
+[LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b)
+  •  
+[X](https://x.com/KumarR35261)
+  •  
+[KeiroLabs](https://keirolabs.cloud)
 
 </div>
 
 ---
 
-## 🚀 About
+## About
 
-I'm a software engineer focused on building infrastructure for AI applications.
+I'm a software engineer and builder focused on **AI systems, backend infrastructure, and developer platforms**.
 
-Currently, I am the Co-Founder of **KeiroLabs**, where I work on search infrastructure, browser infrastructure, retrieval systems, and developer tooling that help AI agents interact with information and the web.
+Currently, I'm the **Co-Founder & AI Product Engineer at KeiroLabs**, where I build infrastructure that helps AI applications and agents search, retrieve, extract, and interact with information from the web.
 
-My interests lie at the intersection of:
+My work spans the full AI application stack — from **search and retrieval pipelines, embeddings, and browser infrastructure to agent workflows, APIs, developer tooling, and cloud deployment**.
 
-* Search Systems
-* Browser Infrastructure
-* AI Agents
-* Distributed Systems
-* Backend Engineering
-* Cloud Platforms
+I enjoy working on problems where software engineering, distributed systems, and AI systems intersect.
 
 ---
 
-## 🏗️ Current Work
+## Current Work
 
-### 🔍 Search Infrastructure
+### Search & Retrieval Infrastructure
 
-Building APIs and retrieval systems that enable AI applications to discover, process, and reason over information from across the web.
+Building search infrastructure for AI applications and agents.
 
-### 🌐 Browser Infrastructure
+Areas of work include:
 
-Developing persistent browser sessions, browser automation workflows, and deployable browser environments designed for AI agents.
+* Multi-engine web search
+* Semantic retrieval
+* Vector search
+* Embedding pipelines
+* Web crawling
+* Content extraction
+* Document processing
+* RAG-oriented retrieval
+* Agentic research workflows
+* LLM-powered synthesis
 
-### ⚙️ Developer Tooling
+### Browser Infrastructure
 
-Building SDKs, APIs, integrations, and platform tooling that simplify adoption for developers and teams.
+Building browser infrastructure that enables AI agents to interact with the web.
+
+Areas of work include:
+
+* Persistent browser sessions
+* Browser automation
+* Remote browser environments
+* Web interaction workflows
+* Browser execution infrastructure
+* Agent-controlled browsing
+
+### AI Developer Platform
+
+Building APIs and developer tooling that make AI infrastructure easier to integrate.
+
+Areas of work include:
+
+* REST APIs
+* SDKs
+* MCP integrations
+* Authentication
+* API management
+* Agent orchestration
+* Platform infrastructure
+* Cloud deployment
+* Observability and reliability
 
 ---
 
-## 📦 Featured Projects
+## KeiroLabs
 
-### KeiroLabs
+### AI Infrastructure for Search, Retrieval & Agents
 
-Search and browser infrastructure platform designed for AI agents and AI-powered applications.
+[KeiroLabs](https://keirolabs.cloud) is an AI infrastructure platform designed to provide developers and AI agents with search, retrieval, browser, extraction, and research capabilities.
 
-**Highlights**
+As Co-Founder & AI Product Engineer, I work across the product and infrastructure stack — from API architecture and retrieval pipelines to browser infrastructure, agent workflows, and developer tooling.
 
-* Real-time Search APIs
-* Semantic Retrieval Pipelines
-* Browser Session Infrastructure
-* Content Extraction Systems
-* Developer SDKs
-* Authentication & Platform Tooling
+### Core Systems
 
-**Current Scale**
+**Search Infrastructure**
 
-* 330+ Users
-* 30–50 Paying Customers
-* 5,000–6,000 Requests Processed Daily
+* Multi-engine search
+* Search result ranking
+* Semantic retrieval
+* Query processing
+* Content discovery
 
-🔗 https://keirolabs.cloud
+**Retrieval & Knowledge Systems**
+
+* Embedding pipelines
+* Vector search
+* Document chunking
+* Retrieval pipelines
+* RAG infrastructure
+
+**Web & Browser Infrastructure**
+
+* Web crawling
+* Content extraction
+* Persistent browser sessions
+* Browser automation
+* Agent-controlled browsing
+
+**Agent Infrastructure**
+
+* Agentic research workflows
+* Search → Extract → Process → Retrieve → Synthesize pipelines
+* Tool orchestration
+* LLM-powered reasoning workflows
+* MCP integrations
+
+**Developer Platform**
+
+* REST APIs
+* SDKs
+* Authentication
+* API management
+* Documentation
+* Cloud infrastructure
+
+### Current Scale
+
+* 330+ users
+* 30–50 paying customers
+* 5,000–6,000 requests processed daily
+
+[Visit KeiroLabs](https://keirolabs.cloud)
+
+---
+
+## Selected Projects
+
+### CSE Sensei
+
+AI-powered education platform built around semantic search and retrieval.
+
+**Focus**
+
+`RAG` `Vector Search` `Embeddings` `LangChain` `FastAPI` `Pinecone`
+
+The project explores how retrieval systems can be used to provide context-aware responses over educational content.
+
+[Repository](https://github.com/KumarRoushan9234/CSE-Sensei-Education-Portal-)
 
 ---
 
 ### Fluras
 
-Customer support, CRM, and subscription management platform.
+Multi-tenant customer operations platform combining CRM workflows, authentication, subscriptions, and customer management.
 
-**Highlights**
+**Focus**
 
-* Multi-Tenant SaaS Architecture
-* CRM Workflows
-* Subscription Lifecycle Management
-* RBAC & Authentication
-* Customer Operations Platform
+`SaaS Architecture` `Backend Engineering` `RBAC` `Authentication` `APIs`
 
-🔗 https://fluras.com
+Built around the challenges of designing a production-oriented multi-tenant application with role-based access control and subscription workflows.
+
+[Website](https://fluras.com)
 
 ---
 
 ### NeoFlow
 
-AI-powered productivity and planning platform.
+AI-powered productivity and planning platform focused on task prioritization, scheduling, and productivity workflows.
 
-**Highlights**
+**Focus**
 
-* AI Task Prioritization
-* Planning & Scheduling
-* Productivity Analytics
-* Secure Authentication
-* Modern Next.js Architecture
+`AI Applications` `Next.js` `TypeScript` `Product Engineering`
 
-🔗 https://neo-flow.vercel.app
+Explores how LLM-powered workflows can be integrated into practical productivity applications.
+
+[Live Demo](https://neo-flow.vercel.app)
 
 ---
 
-## 🛠️ Technology Stack
+## Engineering Focus
 
-| Area         | Technologies                                             |
-| ------------ | -------------------------------------------------------- |
-| Languages    | Python, TypeScript, JavaScript, SQL, C++                 |
-| Frontend     | React, Next.js, Tailwind CSS                             |
-| Backend      | Node.js, Express.js, FastAPI, Flask                      |
-| Databases    | PostgreSQL, MongoDB, Redis, MySQL                        |
-| AI Systems   | RAG, Vector Search, Embeddings, LangChain                |
-| DevOps       | Docker, Linux, AWS, Cloudflare, Nginx                    |
-| Architecture | REST APIs, OAuth 2.0, Distributed Systems, System Design |
+### AI Systems
 
----
+* Large Language Models
+* LLM APIs
+* Retrieval-Augmented Generation
+* Semantic Search
+* Embeddings
+* Vector Databases
+* AI Agents
+* Tool Calling
+* Agent Orchestration
+* MCP
 
-## 🎯 Currently Exploring
+### Backend & Distributed Systems
 
-* Large-scale Retrieval Systems
-* Browser Execution Environments
+* REST API Design
+* Microservices
+* Asynchronous Processing
 * Distributed Systems
-* Platform Engineering
-* AI Agent Infrastructure
+* Caching
+* Queues
+* Authentication & Authorization
+* Database Design
+* System Design
+
+### Infrastructure
+
+* Docker
+* Linux
+* AWS
+* Cloudflare
+* Nginx
+* CI/CD
+* API Infrastructure
+* Observability
+* Production Deployment
+
+### Developer Platforms
+
+* SDK Development
+* API Design
+* Developer Experience
+* Authentication & API Keys
+* Documentation
+* MCP Integrations
+* Platform Architecture
 
 ---
 
-## 📈 GitHub Activity
+## Technology
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KumarRoushan9234&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRoushan9234&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+| Area            | Technologies                                               |
+| --------------- | ---------------------------------------------------------- |
+| Languages       | Python, TypeScript, JavaScript, SQL, C++                   |
+| AI / ML         | LLMs, RAG, Embeddings, Vector Search, AI Agents, LangChain |
+| Backend         | FastAPI, Flask, Node.js, Express.js                        |
+| Frontend        | React, Next.js, Tailwind CSS                               |
+| Databases       | PostgreSQL, MongoDB, Redis, MySQL                          |
+| Infrastructure  | Docker, Linux, AWS, Cloudflare, Nginx                      |
+| Architecture    | REST APIs, Distributed Systems, Microservices, OAuth 2.0   |
+| Developer Tools | SDKs, MCP, API Platforms, CLI Tools                        |
 
 ---
 
-> Building infrastructure that enables the next generation of AI applications.
+## How I Approach Engineering
+
+I care about building systems that are:
+
+**Reliable**
+
+Systems should behave predictably, handle failures gracefully, and provide clear failure modes.
+
+**Observable**
+
+Latency, errors, throughput, and system behavior should be measurable rather than guessed.
+
+**Scalable**
+
+Services should have clear boundaries and be designed so individual components can evolve independently.
+
+**Developer-friendly**
+
+Infrastructure should be easy to integrate, understand, and operate through clear APIs and documentation.
+
+**Production-oriented**
+
+Projects should solve real problems and account for deployment, reliability, security, and operational constraints.
+
+---
+
+## Currently Exploring
+
+I'm currently spending most of my time exploring:
+
+* Large-scale retrieval systems
+* Agentic architectures
+* Browser execution environments
+* Distributed AI infrastructure
+* AI developer platforms
+* Production RAG systems
+* Search quality and retrieval optimization
+* Platform engineering
+* AI system reliability
+
+---
+
+## Selected Engineering Principles
+
+```text
+Build systems, not just demos.
+
+Measure before optimizing.
+
+Keep infrastructure simple until complexity is justified.
+
+Design APIs around developers, not internal implementation details.
+
+Treat reliability and observability as product features.
+
+Use AI where it creates leverage, not where it only adds complexity.
+```
+
+---
+
+## GitHub
+
+Most of my repositories contain experiments, prototypes, production systems, and research projects across AI, backend engineering, and infrastructure.
+
+For the projects I actively maintain, I aim to document:
+
+* Architecture
+* Engineering decisions
+* Setup and deployment
+* API usage
+* Performance considerations
+* Trade-offs
+* Future improvements
+
+---
+
+## Connect
+
+If you're interested in **AI infrastructure, developer platforms, AI agents, search systems, backend engineering, or early-stage products**, feel free to connect.
+
+[LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b)
+  •  
+[X](https://x.com/KumarR35261)
+  •  
+[KeiroLabs](https://keirolabs.cloud)
+
+---
+
+<div align="center">
+
+### Building reliable infrastructure for AI applications and agents.
+
+</div>
