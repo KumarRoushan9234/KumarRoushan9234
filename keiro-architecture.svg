@@ -1,1 +1,704 @@
 
+<svg width="1400" height="620"
+     viewBox="0 0 1400 620"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05080D"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow
+        dx="0"
+        dy="5"
+        stdDeviation="8"
+        flood-color="#000000"
+        flood-opacity="0.35"/>
+    </filter>
+
+    <pattern id="grid" width="40" height="40"
+             patternUnits="userSpaceOnUse">
+
+      <path d="M40 0H0V40"
+            fill="none"
+            stroke="#1E293B"
+            stroke-width="1"
+            opacity="0.35"/>
+
+    </pattern>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="620"
+        rx="20"
+        fill="url(#bg)"/>
+
+  <rect width="1400" height="620"
+        rx="20"
+        fill="url(#grid)"/>
+
+  <!-- Header -->
+  <text x="55"
+        y="60"
+        fill="#F8FAFC"
+        font-family="Inter, Arial, sans-serif"
+        font-size="28"
+        font-weight="700">
+    KeiroLabs
+  </text>
+
+  <text x="55"
+        y="88"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="13"
+        letter-spacing="2">
+    AI INFRASTRUCTURE FOR SEARCH, RETRIEVAL, BROWSING &amp; AGENTS
+  </text>
+
+  <!-- Section labels -->
+
+  <text x="80"
+        y="140"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    INPUT
+  </text>
+
+  <text x="410"
+        y="140"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    INFRASTRUCTURE
+  </text>
+
+  <text x="870"
+        y="140"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    AGENT LAYER
+  </text>
+
+  <text x="1160"
+        y="140"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    OUTPUT
+  </text>
+
+  <!-- Input node -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="55"
+          y="220"
+          width="220"
+          height="115"
+          rx="14"
+          fill="url(#node)"
+          stroke="#334155"/>
+
+    <circle cx="95" cy="260"
+            r="17"
+            fill="#0F172A"
+            stroke="#60A5FA"/>
+
+    <circle cx="95" cy="255"
+            r="5"
+            fill="#60A5FA"/>
+
+    <path d="M84 276 Q95 264 106 276"
+          fill="none"
+          stroke="#60A5FA"
+          stroke-width="2"/>
+
+    <text x="125"
+          y="258"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="16"
+          font-weight="600">
+      AI Application
+    </text>
+
+    <text x="125"
+          y="282"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="11">
+      Query / Task
+    </text>
+
+  </g>
+
+  <!-- Keiro API -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="335"
+          y="195"
+          width="235"
+          height="165"
+          rx="16"
+          fill="url(#node)"
+          stroke="#2563EB"
+          stroke-width="2"/>
+
+    <text x="370"
+          y="235"
+          fill="#60A5FA"
+          font-family="JetBrains Mono, monospace"
+          font-size="11"
+          letter-spacing="2">
+      CORE PLATFORM
+    </text>
+
+    <text x="370"
+          y="272"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="22"
+          font-weight="700">
+      KeiroLabs API
+    </text>
+
+    <text x="370"
+          y="302"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="11">
+      Unified AI infrastructure
+    </text>
+
+    <line x1="370" y1="325"
+          x2="535" y2="325"
+          stroke="#1E293B"/>
+
+    <text x="370"
+          y="346"
+          fill="#94A3B8"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      SEARCH • EXTRACT • RETRIEVE
+    </text>
+
+  </g>
+
+  <!-- Search -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="640"
+          y="165"
+          width="220"
+          height="82"
+          rx="13"
+          fill="url(#node)"
+          stroke="#334155"/>
+
+    <circle cx="675" cy="206"
+            r="15"
+            fill="#0F172A"
+            stroke="#60A5FA"/>
+
+    <circle cx="672" cy="203"
+            r="6"
+            fill="none"
+            stroke="#60A5FA"
+            stroke-width="2"/>
+
+    <line x1="677" y1="208"
+          x2="683" y2="214"
+          stroke="#60A5FA"
+          stroke-width="2"/>
+
+    <text x="705"
+          y="200"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="15"
+          font-weight="600">
+      Search
+    </text>
+
+    <text x="705"
+          y="220"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      Multi-engine search
+    </text>
+
+  </g>
+
+  <!-- Browser -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="640"
+          y="265"
+          width="220"
+          height="82"
+          rx="13"
+          fill="url(#node)"
+          stroke="#334155"/>
+
+    <rect x="660"
+          y="291"
+          width="29"
+          height="22"
+          rx="4"
+          fill="none"
+          stroke="#818CF8"
+          stroke-width="2"/>
+
+    <circle cx="666" cy="297"
+            r="2"
+            fill="#818CF8"/>
+
+    <circle cx="673" cy="297"
+            r="2"
+            fill="#818CF8"/>
+
+    <text x="705"
+          y="300"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="15"
+          font-weight="600">
+      Browser
+    </text>
+
+    <text x="705"
+          y="320"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      Web execution
+    </text>
+
+  </g>
+
+  <!-- Extraction -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="640"
+          y="365"
+          width="220"
+          height="82"
+          rx="13"
+          fill="url(#node)"
+          stroke="#334155"/>
+
+    <rect x="662"
+          y="388"
+          width="23"
+          height="29"
+          rx="3"
+          fill="none"
+          stroke="#4ADE80"
+          stroke-width="2"/>
+
+    <line x1="668" y1="398"
+          x2="680" y2="398"
+          stroke="#4ADE80"/>
+
+    <line x1="668" y1="405"
+          x2="680" y2="405"
+          stroke="#4ADE80"/>
+
+    <text x="705"
+          y="400"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="15"
+          font-weight="600">
+      Extraction
+    </text>
+
+    <text x="705"
+          y="420"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      Content processing
+    </text>
+
+  </g>
+
+  <!-- Retrieval -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="640"
+          y="465"
+          width="220"
+          height="82"
+          rx="13"
+          fill="url(#node)"
+          stroke="#334155"/>
+
+    <ellipse cx="675" cy="490"
+             rx="14"
+             ry="6"
+             fill="none"
+             stroke="#38BDF8"
+             stroke-width="2"/>
+
+    <path d="M661 490V512
+             C661 518 689 518 689 512V490"
+          fill="none"
+          stroke="#38BDF8"
+          stroke-width="2"/>
+
+    <text x="705"
+          y="500"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="15"
+          font-weight="600">
+      Retrieval
+    </text>
+
+    <text x="705"
+          y="520"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      Vector search &amp; RAG
+    </text>
+
+  </g>
+
+  <!-- Agent -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="925"
+          y="235"
+          width="205"
+          height="160"
+          rx="16"
+          fill="url(#node)"
+          stroke="#2563EB"
+          stroke-width="2"/>
+
+    <text x="960"
+          y="270"
+          fill="#60A5FA"
+          font-family="JetBrains Mono, monospace"
+          font-size="10"
+          letter-spacing="2">
+      ORCHESTRATION
+    </text>
+
+    <text x="960"
+          y="310"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="21"
+          font-weight="700">
+      Agent Workflow
+    </text>
+
+    <text x="960"
+          y="338"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="11">
+      Plan
+    </text>
+
+    <text x="1010"
+          y="338"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="11">
+      →
+    </text>
+
+    <text x="1030"
+          y="338"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="11">
+      Reason
+    </text>
+
+    <text x="960"
+          y="365"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="11">
+      Use Tools
+    </text>
+
+    <text x="960"
+          y="380"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="9">
+      iterative research workflow
+    </text>
+
+  </g>
+
+  <!-- Synthesis -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="1190"
+          y="250"
+          width="165"
+          height="130"
+          rx="15"
+          fill="url(#node)"
+          stroke="#334155"/>
+
+    <rect x="1220"
+          y="280"
+          width="27"
+          height="33"
+          rx="4"
+          fill="none"
+          stroke="#A78BFA"
+          stroke-width="2"/>
+
+    <line x1="1227" y1="290"
+          x2="1240" y2="290"
+          stroke="#A78BFA"/>
+
+    <line x1="1227" y1="298"
+          x2="1240" y2="298"
+          stroke="#A78BFA"/>
+
+    <line x1="1227" y1="306"
+          x2="1237" y2="306"
+          stroke="#A78BFA"/>
+
+    <text x="1260"
+          y="294"
+          fill="#F8FAFC"
+          font-family="Inter, Arial, sans-serif"
+          font-size="16"
+          font-weight="600">
+      Synthesis
+    </text>
+
+    <text x="1220"
+          y="335"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      Structured
+    </text>
+
+    <text x="1220"
+          y="352"
+          fill="#64748B"
+          font-family="JetBrains Mono, monospace"
+          font-size="10">
+      Output
+    </text>
+
+  </g>
+
+  <!-- Connection lines -->
+
+  <g fill="none"
+     stroke="#334155"
+     stroke-width="2">
+
+    <path d="M275 277 H335"/>
+
+    <path d="M570 277 H610 V206 H640"/>
+    <path d="M570 277 H610 V306 H640"/>
+    <path d="M570 277 H610 V406 H640"/>
+    <path d="M570 277 H610 V506 H640"/>
+
+    <path d="M860 206 H895 V280 H925"/>
+    <path d="M860 306 H895 V305 H925"/>
+    <path d="M860 406 H895 V330 H925"/>
+    <path d="M860 506 H895 V350 H925"/>
+
+    <path d="M1130 315 H1190"/>
+
+  </g>
+
+  <!-- Animated data particles -->
+
+  <g fill="#60A5FA">
+
+    <circle r="4">
+
+      <animateMotion
+        dur="3s"
+        repeatCount="indefinite"
+        path="M275 277 H335"/>
+
+    </circle>
+
+    <circle r="4">
+
+      <animateMotion
+        dur="4s"
+        repeatCount="indefinite"
+        path="M570 277 H610 V206 H640"/>
+
+    </circle>
+
+    <circle r="4">
+
+      <animateMotion
+        dur="4.5s"
+        repeatCount="indefinite"
+        path="M570 277 H610 V406 H640"/>
+
+    </circle>
+
+    <circle r="4">
+
+      <animateMotion
+        dur="5s"
+        repeatCount="indefinite"
+        path="M860 306 H895 V305 H925"/>
+
+    </circle>
+
+    <circle r="4">
+
+      <animateMotion
+        dur="3.8s"
+        repeatCount="indefinite"
+        path="M1130 315 H1190"/>
+
+    </circle>
+
+  </g>
+
+  <!-- Bottom process -->
+
+  <line x1="55"
+        y1="585"
+        x2="1345"
+        y2="585"
+        stroke="#1E293B"/>
+
+  <text x="55"
+        y="570"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    INTENT
+  </text>
+
+  <text x="200"
+        y="570"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="11">
+    →
+  </text>
+
+  <text x="235"
+        y="570"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    SEARCH
+  </text>
+
+  <text x="370"
+        y="570"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="11">
+    →
+  </text>
+
+  <text x="405"
+        y="570"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    EXTRACT
+  </text>
+
+  <text x="560"
+        y="570"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="11">
+    →
+  </text>
+
+  <text x="595"
+        y="570"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    RETRIEVE
+  </text>
+
+  <text x="750"
+        y="570"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="11">
+    →
+  </text>
+
+  <text x="785"
+        y="570"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    REASON
+  </text>
+
+  <text x="920"
+        y="570"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="11">
+    →
+  </text>
+
+  <text x="955"
+        y="570"
+        fill="#475569"
+        font-family="JetBrains Mono, monospace"
+        font-size="11"
+        letter-spacing="2">
+    SYNTHESIZE
+  </text>
+
+</svg>
