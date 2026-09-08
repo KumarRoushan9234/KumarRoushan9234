@@ -1,24 +1,29 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Kumar Roushan"/>
+# Kumar Roushan
+### AI Product Engineer & Co-Founder at KeiroLabs
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&center=true&vCenter=true&width=850&lines=Building+AI+Infrastructure;Search+%26+Retrieval+Systems;AI+Agent+Infrastructure;Browser+Infrastructure;Developer+Platforms+%26+APIs" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&center=true&vCenter=true&width=900&lines=Building+Infrastructure+for+AI+Agents;Engineering+Search+%26+Retrieval+Systems;Building+Browser+Infrastructure+for+AI;Designing+Developer+Platforms+%26+APIs;Shipping+Production+AI+Systems" alt="Typing animation"/>
 
-<br/><br/>
+<br/>
+<br/>
 
 <a href="https://linkedin.com/in/kumar-roushan-9870b425b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+
 <a href="https://x.com/KumarR35261">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-&nbsp;
+
 <a href="https://keirolabs.cloud">
-<img src="https://img.shields.io/badge/KeiroLabs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/KeiroLabs-Platform-111827?style=for-the-badge&logo=googlecloud&logoColor=white" alt="KeiroLabs"/>
 </a>
+
+<br/>
+<br/>
 
 </div>
 
@@ -26,11 +31,13 @@
 
 ## About
 
-I'm a software engineer focused on **AI systems, backend infrastructure, and developer platforms**.
+I'm a software engineer and builder focused on **AI systems, backend infrastructure, and developer platforms**.
 
-Currently, I'm the **Co-Founder & AI Product Engineer at KeiroLabs**, where I work on search, retrieval, browser infrastructure, AI agent workflows, APIs, and platform systems.
+Currently, I'm the **Co-Founder & AI Product Engineer at KeiroLabs**, where I build infrastructure that helps AI applications and agents search, retrieve, extract, and interact with information from the web.
 
-My interests sit at the intersection of **AI, distributed systems, backend engineering, and product development**.
+My work spans the AI application stack — from **search and retrieval pipelines, embeddings, and browser infrastructure to agent workflows, APIs, developer tooling, and cloud deployment**.
+
+I enjoy working on problems where **AI systems, distributed systems, backend engineering, and product development** intersect.
 
 ---
 
@@ -42,31 +49,62 @@ My interests sit at the intersection of **AI, distributed systems, backend engin
 
 ### Search & Retrieval
 
-Building systems for:
+Building infrastructure that enables AI applications and agents to discover, retrieve, and process information from the web.
 
-* Multi-engine search
-* Semantic retrieval
-* Vector search
-* Embeddings
-* Web crawling
-* Content extraction
-* RAG pipelines
+**Working with**
+
+<img src="https://img.shields.io/badge/Search-Systems-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic-Retrieval-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector-Search-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### AI Infrastructure
+### Browser Infrastructure
 
-Building systems for:
+Building browser execution infrastructure that enables AI agents to interact with and operate on the web.
 
-* AI agents
-* Browser automation
-* Agent workflows
-* MCP integrations
-* Developer APIs
-* SDKs
-* Cloud infrastructure
+**Working with**
+
+<img src="https://img.shields.io/badge/Browser-Automation-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Persistent-Sessions-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web-Execution-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agent-Browsing-111827?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI Agent Infrastructure
+
+Designing workflows that allow AI agents to plan, search, retrieve, process, and synthesize information.
+
+**Working with**
+
+<img src="https://img.shields.io/badge/Agentic-Systems-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool-Orchestration-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-Workflows-111827?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Developer Platforms
+
+Building APIs and developer tooling that make AI infrastructure easier to integrate and operate.
+
+**Working with**
+
+<img src="https://img.shields.io/badge/REST-APIs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/SDKs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-Infrastructure-111827?style=flat-square"/>
 
 </td>
 </tr>
@@ -76,67 +114,97 @@ Building systems for:
 
 ## Selected Projects
 
-### KeiroLabs
+### KeiroLabs — AI Infrastructure for Search, Retrieval & Agents
 
-**AI infrastructure platform for search, retrieval, browsing, extraction, and AI agents.**
+[KeiroLabs](https://keirolabs.cloud) is an AI infrastructure platform designed to provide developers and AI agents with **search, retrieval, browser, extraction, and agentic research capabilities**. As Co-Founder & AI Product Engineer, I work across the product and infrastructure stack — from API architecture and retrieval pipelines to browser infrastructure, agent workflows, and developer tooling.
 
-As Co-Founder & AI Product Engineer, I work across the platform — including API architecture, search systems, retrieval pipelines, browser infrastructure, agentic research, and developer tooling.
+**Current Scale:** 330+ users | 30–50 paying customers | 5,000–6,000 requests processed daily
 
-**Systems**
+**Core Systems:**
+- **Search & Retrieval:** Multi-engine search, semantic retrieval, vector search, embedding pipelines, and RAG infrastructure.
+- **Web & Browser Infrastructure:** Web crawling, content extraction, persistent browser sessions, and agent-controlled browsing.
+- **Agent Infrastructure:** Tool orchestration, LLM-powered workflows, MCP integrations, and synthesis pipelines.
 
-`Search` `Retrieval` `RAG` `Browser Infrastructure` `AI Agents` `MCP` `APIs`
-
-**Scale**
-
-* 330+ users
-* 30–50 paying customers
-* 5,000–6,000 requests/day
-
-
-
-[KeiroLabs](https://keirolabs.cloud)
+*The platform is designed around a workflow where an AI application can move from intent → search → extraction → retrieval → reasoning → synthesis, while the underlying infrastructure handles the web and retrieval layer.*
 
 ---
 
 ### Fluras
 
-**Multi-tenant customer operations platform for CRM, subscriptions, and customer management.**
+Multi-tenant customer operations platform combining CRM workflows, authentication, subscriptions, and customer management.
 
-**Focus**
+**Focus:** `SaaS Architecture` `Backend` `RBAC` `Authentication` `APIs`
 
-`SaaS` `Backend` `RBAC` `Authentication` `Subscriptions` `APIs`
+Built around production-oriented multi-tenant application architecture and customer operations workflows.
 
-[Fluras](https://fluras.com)
+[Website](https://fluras.com)
 
 ---
 
 ### NeoFlow
 
-**AI-powered productivity and planning platform focused on task prioritization and scheduling.**
+AI-powered productivity and planning platform focused on task prioritization, scheduling, and productivity workflows.
 
-**Focus**
+**Focus:** `AI Applications` `Next.js` `TypeScript` `Product Engineering`
 
-`AI Applications` `Next.js` `TypeScript` `Product Engineering`
+Explores how AI-powered workflows can be integrated into practical productivity systems.
 
-[NeoFlow](https://neo-flow.vercel.app)
+[Live Demo](https://neo-flow.vercel.app)
+
+---
+
+### More Projects
+
+A collection of experiments and engineering projects across `AI`, `Backend`, `Full Stack`, `Infrastructure`, `DevOps`, and `Systems`. I use these projects to explore new architectures, technologies, and product ideas.
+
+[View all repositories](https://github.com/KumarRoushan9234?tab=repositories)
 
 ---
 
 ## Technology
 
+### Languages
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,fastapi,nodejs,react,nextjs,postgres,mongodb,redis,docker,linux,aws,nginx,cloudflare" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" />
 
 </p>
 
+### AI Systems
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector_Search-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+
+</p>
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+</p>
+
+### Data & Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,aws,nginx,cloudflare" />
 
 </p>
 
@@ -144,14 +212,57 @@ As Co-Founder & AI Product Engineer, I work across the platform — including AP
 
 ## Engineering Focus
 
-| AI Systems       | Backend             | Infrastructure         |
-| ---------------- | ------------------- | ---------------------- |
-| LLM Applications | API Architecture    | Docker                 |
-| RAG              | Distributed Systems | Linux                  |
-| Semantic Search  | Microservices       | Cloud Deployment       |
-| Embeddings       | Async Processing    | Browser Infrastructure |
-| AI Agents        | Caching             | Platform Engineering   |
-| MCP              | Database Design     | Observability          |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### AI Systems
+
+- LLM applications
+- RAG systems
+- Semantic search
+- Embeddings
+- Vector databases
+- AI agents
+- Tool calling
+- Agent orchestration
+- MCP
+
+</td>
+
+<td width="33%" valign="top">
+
+### Backend Systems
+
+- API architecture
+- Distributed systems
+- Microservices
+- Async processing
+- Caching
+- Authentication
+- Database design
+- System design
+
+</td>
+
+<td width="33%" valign="top">
+
+### Infrastructure
+
+- Docker
+- Linux
+- Cloud deployment
+- API infrastructure
+- Browser infrastructure
+- Observability
+- Reliability
+- Platform engineering
+
+</td>
+
+</tr>
+</table>
 
 ---
 
