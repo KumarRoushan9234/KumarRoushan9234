@@ -8,7 +8,7 @@
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b) • [X](https://x.com/singh_Roushan89) • [KeiroLabs](https://keirolabs.cloud)
+[LinkedIn](https://linkedin.com/in/kumar-roushan-9870b425b) • [X](https://x.com/KumarR35261) • [KeiroLabs](https://keirolabs.cloud)
 
 </div>
 
