@@ -2,7 +2,7 @@
 
 # Kumar Roushan
 
-### Building AI Systems, Infrastructure & Developer Tools
+### Just Building Things I Find Interesting
 
 <br/>
 
