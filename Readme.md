@@ -1,11 +1,12 @@
 <div align="center">
 
 # Kumar Roushan
-### AI Product Engineer & Co-Founder at KeiroLabs
+
+### Building AI Systems, Infrastructure & Developer Tools
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&center=true&vCenter=true&width=900&lines=Building+Infrastructure+for+AI+Agents;Engineering+Search+%26+Retrieval+Systems;Building+Browser+Infrastructure+for+AI;Designing+Developer+Platforms+%26+APIs;Shipping+Production+AI+Systems" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&center=true&vCenter=true&width=900&lines=Building+Infrastructure+for+AI+Agents;Engineering+Search+%26+Retrieval+Systems;Building+Browser+Infrastructure;Designing+Developer+Platforms+%26+APIs;Shipping+Production+AI+Systems" alt="Typing animation"/>
 
 <br/>
 <br/>
